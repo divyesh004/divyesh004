@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'M  DIVYESH YADAV FRONTEND DEVLOPER FROM INDIA......
+I'M  DIVYESH YADAV FULL STACK DEVLOPER FROM INDIA......
 
 <img align="center" alt="coding" width="100%" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
